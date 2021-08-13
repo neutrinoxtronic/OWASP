@@ -6,17 +6,17 @@
 
 Em OWASP se pode encontrar, grátis e de forma aberta...
 
-* Normas e ferramentas de segurança em aplicações
-* Livros completos sobre testes de segurança, desenvolvimento de código seguro e revisão de segurança de código
-* Apresentações e vídeos
-* [Folhas de Dicas](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) sobre diversos tópicos mais comuns
-* Normas e bibliotecas de controles de segurança
-* [Capítulos locais da OWASP pelo mundo](https://www.owasp.org/index.php/OWASP_Chapter)
-* Pesquisas de última geração
-* Vastas [conferências do OWASP pelo mundo](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference)
-* [Listas de discussão](https://lists.owasp.org/mailman/listinfo)
+- Normas e ferramentas de segurança em aplicações
+- Livros completos sobre testes de segurança, desenvolvimento de código seguro e revisão de segurança de código
+- Apresentações e vídeos
+- [Folhas de Dicas](https://cheatsheetseries.owasp.org/) sobre diversos tópicos mais comuns
+- Normas e bibliotecas de controles de segurança
+- [Capítulos locais da OWASP pelo mundo](https://owasp.org/chapters/)
+- Pesquisas de última geração
+- Vastas [conferências do OWASP pelo mundo](https://owasp.org/events/)
+- [Listas de discussão](https://lists.owasp.org/mailman/listinfo)
 
-Saiba mais em: [https://www.owasp.org](https://www.owasp.org).
+Saiba mais em: [https://owasp.org](https://owasp.org).
 
 Todas as ferramentas, documentos, fóruns e capítulos do OWASP são grátis e abertos a todos os interessados em aperfeiçoar a segurança em aplicações.
 
@@ -33,5 +33,5 @@ Junte-se a nós!
 
 ![license](images/license.png)
 
-Copyright © 2003-2017 The OWASP Foundation. Este documento é publicado sob a licença Creative Commons Attribution ShareAlike 4.0. Para qualquer tipo de reutilização ou distribuição, os termos deste trabalho deverão ser informados.
+Copyright © 2003-2021 The OWASP Foundation. Este documento é publicado sob a licença Creative Commons Attribution ShareAlike 4.0. Para qualquer tipo de reutilização ou distribuição, os termos deste trabalho deverão ser informados.
 

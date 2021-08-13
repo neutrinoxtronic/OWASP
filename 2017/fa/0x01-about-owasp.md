@@ -20,27 +20,27 @@
      ارائه‌ها و <a href="https://www.youtube.com/user/OWASPGLOBAL"> ویدیوها</a>.
   </li>
    <li>
-     <a href="https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series">جداول تقلب </a>
+     <a href="https://cheatsheetseries.owasp.org/">جداول تقلب </a>
      در موضوعات مختلف
   </li>
    <li>
     کنترل‌ها و کتابخانه‌های امنیتی استاندارد
   </li>
    <li>
-     <a href="https://www.owasp.org/index.php/OWASP_Chapter">گردهمایی محلی در تمام دنیا</a>    
+     <a href="https://owasp.org/chapters/">گردهمایی محلی در تمام دنیا</a>    
   </li>
   <li>
     تحقیقات به روز
   </li>
   <li>
-    <a href="https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference">کنفرانس‌های گسترده در تمام دنیا</a> 
+    <a href="https://owasp.org/events/">کنفرانس‌های گسترده در تمام دنیا</a> 
   </li>
   <li>
     <a href="https://lists.owasp.org/mailman/listinfo">ایمیل لیست‌ها</a> 
   </li>
 </ul>
 
-<p dir="rtl" align="right">در اینجا میتوانید اطلاعات بیشتری کسب کنید : <a href="https://www.owasp.org">https://www.owasp.org</a> .</p>
+<p dir="rtl" align="right">در اینجا میتوانید اطلاعات بیشتری کسب کنید : <a href="https://owasp.org">https://owasp.org</a> .</p>
 
 <p dir="rtl" align="right">تمام ابزارها، مدارک، ویدیوها، ارائه‌ها و گردهمایی‌های OWASP برای هرکسی که به ارتقا سطح امنیتی برنامه‌ها علاقه‌مند است به صورت رایگان و آزاد قابل دسترس است. </p>
 
@@ -59,7 +59,7 @@
 ![license](images/license.png)
 
 <p dir="rtl" align="right">
-  کپی رایت 2003-2017 بنیاد OWASP.
+  کپی رایت 2003-2021 بنیاد OWASP.
 </p>
 <p dir="rtl" align="right">
   این سند تحت لیسانس Creative Commons Attribution Share-Alike 4.0  منتشر شده است.

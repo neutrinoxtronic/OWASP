@@ -18,8 +18,8 @@ Merci d'utiliser ce repository et de ne pas pousser dans le repository OWASP
 # OWASP Top 10 FR Leadership
 
 En cas de doute, merci de contacter la liste OWASP-FRANCE ou les personnes suivantes
-* Sebastien Gioria [@SPoint42](https://github.com/Spoint42)
+- Sebastien Gioria [@SPoint42](https://github.com/Spoint42)
 
 # OWASP T10 References
-- [OWASP T10 Wiki homepage](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+- [OWASP T10 Wiki homepage](https://owasp.org/www-project-top-ten/)
 - [OWASP 2017 Summit Outcomes](https://owaspsummit.org/Outcomes/Owasp-Top-10-2017/Owasp-Top-10-2017.html)

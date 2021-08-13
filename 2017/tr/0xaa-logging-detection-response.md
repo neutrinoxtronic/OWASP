@@ -3,19 +3,19 @@
 | Tehdit etkenleri/Saldırı vektörleri | Güvenlik zafiyeti           | Etkiler               |
 | -- | -- | -- |
 | Erişim Düzeyi : İstismar Edilebilirlik 2 | Yaygınlık 3 : Tespit Edilebilirlik 1 | Teknik 2 : İş |
-| Yetersiz loglama ve izleme açıklıklarının istismarı neredeyse tüm büyük ihlallerin ana nedenidir. Saldırganlar tespit edilmeksizin amaçlarına ulaşmak için izleme ve zamanında müdahalenin eksikliğini kullanmaktadır. | Bu açıklık [endüstri anketine](https://owasp.blogspot.com/2017/08/owasp-top-10-2017-project-update.html) dayanarak İlk 10 listesinde yer almaktadır. Yeterli düzeyde izleme yapılıp yapılmadığına karar verirken kullanılacak bir strateji sızma testi sonrası logların incelenmesidir. Test ekibinin eylemleri, çıkarabilecekleri zararları anlamak için yeterli olacak şekilde kayıt altına alınmalıdır. | Başarılı pek çok saldırı, açıklık araştırması ile başlamaktadır. Bu tür araştırmalara izin verilmesi başarılı istismar oranını neredeyse %100 oranında artırmaktadır. 2016 yılında, bir ihlalin tespiti, zararın oluşması için yeterli bir süre olan [ortalama 191 gün](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=SEL03130WWEN&) olmuştur. |
+| Yetersiz loglama ve izleme açıklıklarının istismarı neredeyse tüm büyük ihlallerin ana nedenidir. Saldırganlar tespit edilmeksizin amaçlarına ulaşmak için izleme ve zamanında müdahalenin eksikliğini kullanmaktadır. | Bu açıklık [endüstri anketine](https://owasp.blogspot.com/2017/08/owasp-top-10-2017-project-update.html) dayanarak İlk 10 listesinde yer almaktadır. Yeterli düzeyde izleme yapılıp yapılmadığına karar verirken kullanılacak bir strateji sızma testi sonrası logların incelenmesidir. Test ekibinin eylemleri, çıkarabilecekleri zararları anlamak için yeterli olacak şekilde kayıt altına alınmalıdır. | Başarılı pek çok saldırı, açıklık araştırması ile başlamaktadır. Bu tür araştırmalara izin verilmesi başarılı istismar oranını neredeyse %100 oranında artırmaktadır. 2016 yılında, bir ihlalin tespiti, zararın oluşması için yeterli bir süre olan ortalama 191 gün olmuştur. |
 
 ## Uygulamam Açıklık İçeriyor Mu?
 
 Yetersiz loglama, tespit, izleme ve aktif müdahale aşağıdaki durumlarda ortaya çıkmaktadır:
 
-* Giriş işlemleri, başarısız giriş denemeleri ve yüksek değerli işlemler gibi denetlenebilir olaylar loglanmadığında.
-* Uyarı ve hatalar yetersiz veya açık olmayan log mesajları oluşturuyorsa veya hiç oluşturmuyorsa.
-* Uygulamaların ve API'lerin logları şüphe çekici faaliyetler için izlenmediğinde.
-* Loglar sadece yerel olarak saklandığında.
-* Uygun alarm üretme sınırları ve yanıt yükseltme süreçleri yerinde veya etkin olmadığında.
-* [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) gibi [DAST](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools) araçları tarafından yapılan sızma testi ve taramalar alarm üretmediğinde.
-* Uygulama gerçek zamanlı olarak veya neredeyse gerçek zamanlı olarak aktif saldırıları tespit edemediğinde veya alarm üretmediğinde.
+- Giriş işlemleri, başarısız giriş denemeleri ve yüksek değerli işlemler gibi denetlenebilir olaylar loglanmadığında.
+- Uyarı ve hatalar yetersiz veya açık olmayan log mesajları oluşturuyorsa veya hiç oluşturmuyorsa.
+- Uygulamaların ve API'lerin logları şüphe çekici faaliyetler için izlenmediğinde.
+- Loglar sadece yerel olarak saklandığında.
+- Uygun alarm üretme sınırları ve yanıt yükseltme süreçleri yerinde veya etkin olmadığında.
+- [OWASP ZAP](https://owasp.org/www-project-zap/) gibi [DAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools) araçları tarafından yapılan sızma testi ve taramalar alarm üretmediğinde.
+- Uygulama gerçek zamanlı olarak veya neredeyse gerçek zamanlı olarak aktif saldırıları tespit edemediğinde veya alarm üretmediğinde.
 
 Eğer loglama ve alarm kayıtları bir kullanıcı veya bir saldırgan tarafından görüntülenebilirse, bilgi ifşası açıklığı bulunmaktadır. (bkz. A3:2017-Hassas Bilgi İfşası).
 
@@ -23,13 +23,13 @@ Eğer loglama ve alarm kayıtları bir kullanıcı veya bir saldırgan tarafınd
 
 Uygulama tarafından saklanan veya işlenen her bir risk için:
 
-* Şüpheli veya zararlı hesapların belirlenmesi için yeterli kullanıcı bağlamıyla tüm giriş, erişim kontrolü eksiklikleri ve sunucu taraflı girdi doğrulama hatalarının loglandığından emin olunmalı ve ileri zamanlı adli bilişim analizlerine izin vermek için yeterli bir süre için tutulmalıdır.
-* Logların merkezi bir log yönetim çözümü tarafından kolayca tüketilebileceği bir formatta üretildiğinden emin olunmalıdır.
-* Değiştirme ve silmeleri engellemek için sadece ekleme yapılabilen veri tabanı tabloları gibi bütünlük kontrolü içeren denetim izlerinin yüksek değerli işlemler için bulunduğundan emin olunmalıdır.
-* Şüpheli faaliyetlerin tespit edilebileceği ve zamanında müdahale edilebileceği şekilde etkin izleme ve alarm üretimi sağlanmalıdır.
-* [NIST 800-61 rev 2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) veya daha ileri sürümleri gibi bir olay müdahale ve kurtarma planı oluşturulmalı veya benimsenmelidir.
+- Şüpheli veya zararlı hesapların belirlenmesi için yeterli kullanıcı bağlamıyla tüm giriş, erişim kontrolü eksiklikleri ve sunucu taraflı girdi doğrulama hatalarının loglandığından emin olunmalı ve ileri zamanlı adli bilişim analizlerine izin vermek için yeterli bir süre için tutulmalıdır.
+- Logların merkezi bir log yönetim çözümü tarafından kolayca tüketilebileceği bir formatta üretildiğinden emin olunmalıdır.
+- Değiştirme ve silmeleri engellemek için sadece ekleme yapılabilen veri tabanı tabloları gibi bütünlük kontrolü içeren denetim izlerinin yüksek değerli işlemler için bulunduğundan emin olunmalıdır.
+- Şüpheli faaliyetlerin tespit edilebileceği ve zamanında müdahale edilebileceği şekilde etkin izleme ve alarm üretimi sağlanmalıdır.
+- [NIST 800-61 rev 2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) veya daha ileri sürümleri gibi bir olay müdahale ve kurtarma planı oluşturulmalı veya benimsenmelidir.
 
-[OWASP AppSensor](https://www.owasp.org/index.php/OWASP_AppSensor_Project) gibi açık kaynak kodlu ve ticari uygulama koruma çerçeveleri, [OWASP ModSecurity Temel Kural Seti ile ModSecurity](https://www.owasp.org/index.php/Category:OWASP_ModSecurity_Core_Rule_Set_Project) gibi web uygulama güvenlik duvarları ve özelleştirilmiş gösterge panelleri ve alarm üretme özellikleri ile log korelasyon yazılımları bulunmaktadır.
+[OWASP AppSensor](https://owasp.org/www-project-appsensor/) gibi açık kaynak kodlu ve ticari uygulama koruma çerçeveleri, [OWASP ModSecurity Temel Kural Seti ile ModSecurity](https://owasp.org/www-project-modsecurity-core-rule-set/) gibi web uygulama güvenlik duvarları ve özelleştirilmiş gösterge panelleri ve alarm üretme özellikleri ile log korelasyon yazılımları bulunmaktadır.
 
 ## Örnek Saldırı Senaryoları
 
@@ -43,12 +43,12 @@ Uygulama tarafından saklanan veya işlenen her bir risk için:
 
 ### OWASP
 
-* [OWASP Proaktif Kontroller: Loglama ve Saldırı Tespiti](https://www.owasp.org/index.php/OWASP_Proactive_Controls#8:_Implement_Logging_and_Intrusion_Detection)
-* [OWASP Uygulama Güvenliği Doğrulama Standardı: V8 Loglama ve İzleme](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project#tab=Home)
-* [OWASP Test Rehberi: Detaylı Hata Kodu Testleri](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project#tab=Home)
-* [OWASP Kopya Kağıdı: Loglama](https://www.owasp.org/index.php/Logging_Cheat_Sheet)
+- [OWASP Proaktif Kontroller: Loglama ve Saldırı Tespiti](https://owasp.org/www-project-proactive-controls/v3/en/c9-security-logging)
+- [OWASP Uygulama Güvenliği Doğrulama Standardı: V8 Loglama ve İzleme](https://github.com/OWASP/ASVS/blob/v4.0.2/4.0/en/0x11-V2-Authentication.md)
+- [OWASP Test Rehberi: Detaylı Hata Kodu Testleri](https://github.com/OWASP/ASVS/blob/v4.0.2/4.0/en/0x11-V2-Authentication.md)
+- [OWASP Kopya Kağıdı: Loglama](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
 ### Dış Kaynaklar
 
-* [CWE-223: Omission of Security-relevant Information](https://cwe.mitre.org/data/definitions/223.html)
-* [CWE-778: Insufficient Logging](https://cwe.mitre.org/data/definitions/778.html)
+- [CWE-223: Omission of Security-relevant Information](https://cwe.mitre.org/data/definitions/223.html)
+- [CWE-778: Insufficient Logging](https://cwe.mitre.org/data/definitions/778.html)

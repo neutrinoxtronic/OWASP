@@ -8,18 +8,18 @@ APIs confiáveis.
 
 A OWASP disponibiliza de forma livre e aberta:
 
-* Ferramentas e normas de segurança aplicacional
-* Livros completos sobre testes de segurança aplicacional, desenvolvimento
+- Ferramentas e normas de segurança aplicacional
+- Livros completos sobre testes de segurança aplicacional, desenvolvimento
   de código seguro e revisão de código focada em segurança
-* Apresentações e vídeos
-* [Cheat sheets][1] sobre assuntos diversos
-* Controlos e bibliotecas de segurança _standard_
-* [Capítulos locais espalhados por todo o mundo][2]
-* Investigação de ponta
-* Múltiplas [conferências a nível mundial][3]
-* [Listas de discussão][4]
+- Apresentações e vídeos
+- [Cheat sheets][1] sobre assuntos diversos
+- Controlos e bibliotecas de segurança _standard_
+- [Capítulos locais espalhados por todo o mundo][2]
+- Investigação de ponta
+- Múltiplas [conferências a nível mundial][3]
+- [Listas de discussão][4]
 
-Mais informação em: https://www.owasp.org.
+Mais informação em: https://owasp.org.
 
 Todas as ferramentas, documentos, vídeos, apresentações e capítulos da OWASP
 são livres e abertos a todos os interessados em melhorar a segurança
@@ -48,14 +48,14 @@ Junte-se a nós!
 
 ![license](images/license.png)
 
-Copyright © 2003-2017 Fundação OWASP. Este documento está licenciado de acordo
+Copyright © 2003-2021 Fundação OWASP. Este documento está licenciado de acordo
 com uma licença Creative Commons Attribution ShareAlike 4.0. Para algum tipo de
 reutilização ou distribuição, deve deixar claro para terceiros os termos da
 licença deste trabalho.
 
-[1]: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
-[2]: https://www.owasp.org/index.php/OWASP_Chapter
+[1]: https://cheatsheetseries.owasp.org/
+[2]: https://owasp.org/chapters/
 
-[3]: https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference
+[3]: https://owasp.org/events/
 [4]: https://lists.owasp.org/mailman/listinfo
 

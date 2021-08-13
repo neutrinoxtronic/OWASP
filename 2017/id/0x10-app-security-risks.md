@@ -14,7 +14,7 @@ keseluruhan.
 
 ## Apa Risiko Saya?
 
-[OWASP Top 10](https://www.owasp.org/index.php/Top10) ini berfokus pada identifikasi risiko yang paling serius bagi sebagian besar organisasi. Untuk setiap risiko, kami memberikan informasi umum mengenai kemungkiinan dan dampak teknis dengan menggunakan skema penilaian sederhana berikut, yang berdasarkan pada  OWASP Risk Rating Methodology.  
+[OWASP Top 10](https://owasp.org/www-project-top-ten/) ini berfokus pada identifikasi risiko yang paling serius bagi sebagian besar organisasi. Untuk setiap risiko, kami memberikan informasi umum mengenai kemungkiinan dan dampak teknis dengan menggunakan skema penilaian sederhana berikut, yang berdasarkan pada  OWASP Risk Rating Methodology.  
 
 | Agen Ancaman| Vektor Serangan | Keberadaan kelemahan| Deteksi Kelemahan | Dampak Teknis | Dampak Bisnis |
 | -- | -- | -- | -- | -- | -- |
@@ -33,14 +33,14 @@ Bila memungkinkan, nama risiko di Top 10 sesuai dengan [Common Weakness Enumerat
 
 ### OWASP
 
-* [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
-* [Article on Threat/Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
+- [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
+- [Article on Threat/Risk Modeling](https://owasp.org/www-community/Threat_Modeling)
 
 ### Eksternal
 
-* [ISO 31000: Risk Management Std](https://www.iso.org/iso-31000-risk-management.html)
-* [ISO 27001: ISMS](https://www.iso.org/isoiec-27001-information-security.html)
-* [NIST Cyber Framework (US)](https://www.nist.gov/cyberframework)
-* [ASD Strategic Mitigations (AU)](https://www.asd.gov.au/infosec/mitigationstrategies.htm)
-* [NIST CVSS 3.0](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
-* [Microsoft Threat Modelling Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49168)
+- [ISO 31000: Risk Management Std](https://www.iso.org/iso-31000-risk-management.html)
+- [ISO 27001: ISMS](https://www.iso.org/isoiec-27001-information-security.html)
+- [NIST Cyber Framework (US)](https://www.nist.gov/cyberframework)
+- [ASD Strategic Mitigations (AU)](https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents)
+- [NIST CVSS 3.0](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
+- [Microsoft Threat Modelling Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49168)

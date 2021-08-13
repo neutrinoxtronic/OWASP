@@ -10,7 +10,7 @@ Bazen bu yolların bulunması ve istismar edilmesi kolay olurken, bazen de son d
 
 ## Risklerim Neler
 
-[OWASP İlk 10](https://www.owasp.org/index.php/Top10) farklı kurumlar için en ciddi web uygulaması güvenlik risklerini belirlemeye çalışmaktadır. Bu risklerin her biri için, OWASP Risk Derecelendirme Metadolojisi'ne dayanan aşağıdaki basit derecelendirme şemasını kullanarak olasılığı ve teknik etkisi hakkında genel bilgi sağlamaktayız.
+[OWASP İlk 10](https://owasp.org/www-project-top-ten/) farklı kurumlar için en ciddi web uygulaması güvenlik risklerini belirlemeye çalışmaktadır. Bu risklerin her biri için, OWASP Risk Derecelendirme Metadolojisi'ne dayanan aşağıdaki basit derecelendirme şemasını kullanarak olasılığı ve teknik etkisi hakkında genel bilgi sağlamaktayız.
 
 | Tehdit Etkenleri | İstismar Edilebilirlik | Zafiyetin Yaygınlığı | Tespit Edilebilirlik | Teknik Etkiler | İş Etkileri |
 | -- | -- | -- | -- | -- | -- |
@@ -28,14 +28,14 @@ Mümkün olabildiğince, İlk 10 içerisinde yer alan riskler, karmaşıklığı
 
 ### OWASP
 
-* [OWASP Risk Derecelendirme Metadolojisi](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
-* [Tehdit/Risk Modelleme hakkında bir makale](https://www.owasp.org/index.php/Threat_Risk_Modeling)
+- [OWASP Risk Derecelendirme Metadolojisi](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
+- [Tehdit/Risk Modelleme hakkında bir makale](https://owasp.org/www-community/Threat_Modeling)
 
 ### Dış Kaynaklar
 
-* [ISO 31000: Risk Yönetimi Standardı](https://www.iso.org/iso-31000-risk-management.html)
-* [ISO 27001: ISMS](https://www.iso.org/isoiec-27001-information-security.html)
-* [NIST Cyber Framework (US)](https://www.nist.gov/cyberframework)
-* [ASD Strategic Mitigations (AU)](https://www.asd.gov.au/infosec/mitigationstrategies.htm)
-* [NIST CVSS 3.0](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
-* [Microsoft Tehdit Modelleme Aracı](https://www.microsoft.com/en-us/download/details.aspx?id=49168)
+- [ISO 31000: Risk Yönetimi Standardı](https://www.iso.org/iso-31000-risk-management.html)
+- [ISO 27001: ISMS](https://www.iso.org/isoiec-27001-information-security.html)
+- [NIST Cyber Framework (US)](https://www.nist.gov/cyberframework)
+- [ASD Strategic Mitigations (AU)](https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents)
+- [NIST CVSS 3.0](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
+- [Microsoft Tehdit Modelleme Aracı](https://www.microsoft.com/en-us/download/details.aspx?id=49168)

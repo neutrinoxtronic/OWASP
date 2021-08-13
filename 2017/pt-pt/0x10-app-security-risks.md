@@ -52,29 +52,29 @@ nomenclatura consensual e reduzir possível confusão.
 
 ### OWASP
 
-* [OWASP Risk Rating Methodology][0x106]
-* [Artigo sobre Threat/Risk Modeling][0x107]
+- [OWASP Risk Rating Methodology][0x106]
+- [Artigo sobre Threat/Risk Modeling][0x107]
 
 ### Externas
 
-* [ISO 31000: Risk Management Std][0x108]
-* [ISO 27001: ISMS][0x109]
-* [NIST Cyber Framework (US)][0x1010]
-* [ASD Strategic Mitigations (AU)][0x1011]
-* [NIST CVSS 3.0][0x1012]
-* [Microsoft Threat Modelling Tool][0x1013]
+- [ISO 31000: Risk Management Std][0x108]
+- [ISO 27001: ISMS][0x109]
+- [NIST Cyber Framework (US)][0x1010]
+- [ASD Strategic Mitigations (AU)][0x1011]
+- [NIST CVSS 3.0][0x1012]
+- [Microsoft Threat Modelling Tool][0x1013]
 
 [0x101]: images/0x10-risk-1.png
-[0x102]: https://www.owasp.org/index.php/Top10
-[0x103]: https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology
+[0x102]: https://owasp.org/www-project-top-ten/
+[0x103]: https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
 [0x104]: ./0xc0-note-about-risks.md
 [0x105]: https://cwe.mitre.org/
-[0x106]: https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology
-[0x107]: https://www.owasp.org/index.php/Threat_Risk_Modeling
+[0x106]: https://owasp.org/www-community/OWASP_Risk_Rating_Methodology
+[0x107]: https://owasp.org/www-community/Threat_Modeling
 [0x108]: https://www.iso.org/iso-31000-risk-management.html
 [0x109]: https://www.iso.org/isoiec-27001-information-security.html
 [0x1010]: https://www.nist.gov/cyberframework
-[0x1011]: https://www.asd.gov.au/infosec/mitigationstrategies.htm
+[0x1011]: https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents
 [0x1012]: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 [0x1013]: https://www.microsoft.com/en-us/download/details.aspx?id=49168
 
