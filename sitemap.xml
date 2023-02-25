@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>None./</loc>
-         <lastmod>2023-02-24</lastmod>
+         <loc>None.</loc>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/"/>
@@ -11,13 +11,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/"/>
          
     </url>
     <url>
          <loc>None0x00-notice/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/0x00-notice/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/0x00-notice/"/>
@@ -26,28 +27,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/0x00-notice/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/0x00-notice/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/0x00-notice/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/0x00-notice/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/0x00-notice/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/0x00-notice/"/>
          
     </url>
     <url>
-         <loc>None0x00-notice.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/0x00-notice.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/0x00-notice.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA00-about-owasp/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00-about-owasp/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00-about-owasp/"/>
@@ -56,28 +43,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00-about-owasp/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00-about-owasp/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00-about-owasp/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A00-about-owasp/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00-about-owasp/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00-about-owasp/"/>
          
     </url>
     <url>
-         <loc>NoneA00-about-owasp.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00-about-owasp.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00-about-owasp.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
@@ -86,28 +59,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10/"/>
          
     </url>
     <url>
-         <loc>NoneA00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00_2021-How_to_start_an_AppSec_program_with_the_OWASP_Top_10.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
@@ -116,28 +75,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard/"/>
          
     </url>
     <url>
-         <loc>NoneA00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00_2021_How_to_use_the_OWASP_Top_10_as_a_standard.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA00_2021_Introduction/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A00_2021_Introduction/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A00_2021_Introduction/"/>
@@ -146,13 +91,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A00_2021_Introduction/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A00_2021_Introduction/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A00_2021_Introduction/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A00_2021_Introduction/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A00_2021_Introduction/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A00_2021_Introduction/"/>
          
     </url>
     <url>
          <loc>NoneA01_2021-Broken_Access_Control/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A01_2021-Broken_Access_Control/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A01_2021-Broken_Access_Control/"/>
@@ -161,28 +107,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A01_2021-Broken_Access_Control/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A01_2021-Broken_Access_Control/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A01_2021-Broken_Access_Control/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A01_2021-Broken_Access_Control/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A01_2021-Broken_Access_Control/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A01_2021-Broken_Access_Control/"/>
          
     </url>
     <url>
-         <loc>NoneA01_2021-Broken_Access_Control.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A01_2021-Broken_Access_Control.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A01_2021-Broken_Access_Control.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA02_2021-Cryptographic_Failures/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A02_2021-Cryptographic_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A02_2021-Cryptographic_Failures/"/>
@@ -191,28 +123,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A02_2021-Cryptographic_Failures/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A02_2021-Cryptographic_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A02_2021-Cryptographic_Failures/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A02_2021-Cryptographic_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A02_2021-Cryptographic_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A02_2021-Cryptographic_Failures/"/>
          
     </url>
     <url>
-         <loc>NoneA02_2021-Cryptographic_Failures.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A02_2021-Cryptographic_Failures.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA03_2021-Injection/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A03_2021-Injection/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A03_2021-Injection/"/>
@@ -221,28 +139,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A03_2021-Injection/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A03_2021-Injection/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A03_2021-Injection/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A03_2021-Injection/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A03_2021-Injection/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A03_2021-Injection/"/>
          
     </url>
     <url>
-         <loc>NoneA03_2021-Injection.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A03_2021-Injection.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A03_2021-Injection.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA04_2021-Insecure_Design/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A04_2021-Insecure_Design/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A04_2021-Insecure_Design/"/>
@@ -251,28 +155,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A04_2021-Insecure_Design/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A04_2021-Insecure_Design/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A04_2021-Insecure_Design/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A04_2021-Insecure_Design/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A04_2021-Insecure_Design/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A04_2021-Insecure_Design/"/>
          
     </url>
     <url>
-         <loc>NoneA04_2021-Insecure_Design.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A04_2021-Insecure_Design.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A04_2021-Insecure_Design.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA05_2021-Security_Misconfiguration/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A05_2021-Security_Misconfiguration/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A05_2021-Security_Misconfiguration/"/>
@@ -281,28 +171,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A05_2021-Security_Misconfiguration/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A05_2021-Security_Misconfiguration/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A05_2021-Security_Misconfiguration/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A05_2021-Security_Misconfiguration/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A05_2021-Security_Misconfiguration/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A05_2021-Security_Misconfiguration/"/>
          
     </url>
     <url>
-         <loc>NoneA05_2021-Security_Misconfiguration.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A05_2021-Security_Misconfiguration.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA06_2021-Vulnerable_and_Outdated_Components/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A06_2021-Vulnerable_and_Outdated_Components/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A06_2021-Vulnerable_and_Outdated_Components/"/>
@@ -311,28 +187,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A06_2021-Vulnerable_and_Outdated_Components/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A06_2021-Vulnerable_and_Outdated_Components/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A06_2021-Vulnerable_and_Outdated_Components/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A06_2021-Vulnerable_and_Outdated_Components/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A06_2021-Vulnerable_and_Outdated_Components/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A06_2021-Vulnerable_and_Outdated_Components/"/>
          
     </url>
     <url>
-         <loc>NoneA06_2021-Vulnerable_and_Outdated_Components.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A06_2021-Vulnerable_and_Outdated_Components.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA07_2021-Identification_and_Authentication_Failures/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A07_2021-Identification_and_Authentication_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A07_2021-Identification_and_Authentication_Failures/"/>
@@ -341,13 +203,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A07_2021-Identification_and_Authentication_Failures/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A07_2021-Identification_and_Authentication_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A07_2021-Identification_and_Authentication_Failures/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A07_2021-Identification_and_Authentication_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A07_2021-Identification_and_Authentication_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A07_2021-Identification_and_Authentication_Failures/"/>
          
     </url>
     <url>
          <loc>NoneA08_2021-Software_and_Data_Integrity_Failures/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A08_2021-Software_and_Data_Integrity_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A08_2021-Software_and_Data_Integrity_Failures/"/>
@@ -356,13 +219,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A08_2021-Software_and_Data_Integrity_Failures/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A08_2021-Software_and_Data_Integrity_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A08_2021-Software_and_Data_Integrity_Failures/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A08_2021-Software_and_Data_Integrity_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A08_2021-Software_and_Data_Integrity_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A08_2021-Software_and_Data_Integrity_Failures/"/>
          
     </url>
     <url>
          <loc>NoneA09_2021-Security_Logging_and_Monitoring_Failures/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
@@ -371,13 +235,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A09_2021-Security_Logging_and_Monitoring_Failures/"/>
          
     </url>
     <url>
          <loc>NoneA10_2021-Server-Side_Request_Forgery_%28SSRF%29/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
@@ -386,28 +251,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/"/>
          
     </url>
     <url>
-         <loc>NoneA10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A10_2021-Server-Side_Request_Forgery_%28SSRF%29.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>NoneA11_2021-Next_Steps/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/A11_2021-Next_Steps/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/A11_2021-Next_Steps/"/>
@@ -416,28 +267,14 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/A11_2021-Next_Steps/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/A11_2021-Next_Steps/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/A11_2021-Next_Steps/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/A11_2021-Next_Steps/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/A11_2021-Next_Steps/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/A11_2021-Next_Steps/"/>
          
     </url>
     <url>
-         <loc>Noneindex.pt_BR/</loc>
-         <lastmod>2023-02-24</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ar" href="Nonear/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="es" href="Nonees/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="Nonefr/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="id" href="Noneid/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="it" href="Noneit/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="ja" href="Noneja/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/index.pt_BR/"/>
-         <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/index.pt_BR/"/>
-         
-    </url>
-    <url>
          <loc>Nonear/assets/readme/</loc>
-         <lastmod>2023-02-24</lastmod>
+         <lastmod>2023-02-25</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/ar/assets/readme/"/>
          <xhtml:link rel="alternate" hreflang="ar" href="Nonear/ar/assets/readme/"/>
@@ -446,6 +283,7 @@
          <xhtml:link rel="alternate" hreflang="id" href="Noneid/ar/assets/readme/"/>
          <xhtml:link rel="alternate" hreflang="it" href="Noneit/ar/assets/readme/"/>
          <xhtml:link rel="alternate" hreflang="ja" href="Noneja/ar/assets/readme/"/>
+         <xhtml:link rel="alternate" hreflang="pt_BR" href="Nonept_BR/ar/assets/readme/"/>
          <xhtml:link rel="alternate" hreflang="zh_CN" href="Nonezh_CN/ar/assets/readme/"/>
          <xhtml:link rel="alternate" hreflang="zh_TW" href="Nonezh_TW/ar/assets/readme/"/>
          
