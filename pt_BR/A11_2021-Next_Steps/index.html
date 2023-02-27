@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#a112021-next-steps" class="md-skip">
+        <a href="#a112021-proximos-passos" class="md-skip">
           Skip to content
         </a>
       
@@ -516,22 +516,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#code-quality-issues" class="md-nav__link">
-    Code Quality issues
+  <a href="#problemas-de-qualidade-do-codigo" class="md-nav__link">
+    Problemas de qualidade do código
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#denial-of-service" class="md-nav__link">
-    Denial of Service
+  <a href="#negacao-de-servico" class="md-nav__link">
+    Negação de serviço
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#memory-management-errors" class="md-nav__link">
-    Memory Management Errors
+  <a href="#erro-de-gerenciamento-de-memoria" class="md-nav__link">
+    Erro de gerenciamento de memória
   </a>
   
 </li>
@@ -570,22 +570,22 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#code-quality-issues" class="md-nav__link">
-    Code Quality issues
+  <a href="#problemas-de-qualidade-do-codigo" class="md-nav__link">
+    Problemas de qualidade do código
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#denial-of-service" class="md-nav__link">
-    Denial of Service
+  <a href="#negacao-de-servico" class="md-nav__link">
+    Negação de serviço
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#memory-management-errors" class="md-nav__link">
-    Memory Management Errors
+  <a href="#erro-de-gerenciamento-de-memoria" class="md-nav__link">
+    Erro de gerenciamento de memória
   </a>
   
 </li>
@@ -602,34 +602,27 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/OWASP/Top10/edit/master/docs/A11_2021-Next_Steps.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/OWASP/Top10/edit/master/docs/A11_2021-Next_Steps.pt_BR.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
-                <h1 id="a112021-next-steps">A11:2021 – Next Steps</h1>
-<p>By design, the OWASP Top 10 is innately limited to the ten most
-significant risks. Every OWASP Top 10 has “on the cusp” risks considered
-at length for inclusion, but in the end, they didn’t make it. No matter
-how we tried to interpret or twist the data, the other risks were more
-prevalent and impactful.</p>
-<p>Organizations working towards a mature appsec program or security
-consultancies or tool vendors wishing to expand coverage for their
-offerings, the following four issues are well worth the effort to
-identify and remediate.</p>
-<h2 id="code-quality-issues">Code Quality issues</h2>
+                <h1 id="a112021-proximos-passos">A11:2021 - Próximos Passos</h1>
+<p>Por padrão, o OWASP Top 10 é essencialmente limitado aos dez riscos mais significativos. Cada OWASP Top 10 tem riscos "prestes" à serem considerados para inclusão, mas no final, eles não entraram na lista. Não importa como tentamos interpretar ou manipular os dados, os outros riscos eram mais prevalentes e impactantes.</p>
+<p>Organizações que trabalham em direção a um programa maduro de appsec, consultorias de segurança ou fornecedores de ferramentas que desejam expandir a cobertura de suas ofertas, os três problemas seguintes valem bem o esforço para identificar e remediar.</p>
+<h2 id="problemas-de-qualidade-do-codigo">Problemas de qualidade do código</h2>
 <table>
 <thead>
 <tr>
-<th align="center">CWEs Mapped </th>
-<th align="center">Max Incidence Rate </th>
-<th align="center">Avg Incidence Rate </th>
-<th align="center">Avg Weighted Exploit </th>
-<th align="center">Avg Weighted Impact </th>
-<th align="center">Max Coverage </th>
-<th align="center">Avg Coverage </th>
-<th align="center">Total Occurrences </th>
-<th align="center">Total CVEs </th>
+<th align="center">CWEs Mapeadas </th>
+<th align="center">Taxa de Incidência Máxima </th>
+<th align="center">Taxa Média de Incidência </th>
+<th align="center">Exploração Média Ponderada </th>
+<th align="center">Impacto Médio Ponderado </th>
+<th align="center">Cobertura Máxima </th>
+<th align="center">Média de Cobertura </th>
+<th align="center">Total de Ocorrências </th>
+<th align="center">Total de CVEs</th>
 </tr>
 </thead>
 <tbody>
@@ -648,30 +641,16 @@ identify and remediate.</p>
 </table>
 <ul>
 <li>
-<p><strong>Description.</strong> Code quality issues include known security defects
-    or patterns, reusing variables for multiple purposes, exposure of
-    sensitive information in debugging output, off-by-one errors, time
-    of check/time of use (TOCTOU) race conditions, unsigned or signed
-    conversion errors, use after free, and more. The hallmark of this
-    section is that they can usually be identified with stringent
-    compiler flags, static code analysis tools, and linter IDE plugins.
-    Modern languages by design eliminated many of these issues, such as
-    Rust’s memory ownership and borrowing concept, Rust’s threading
-    design, and Go’s strict typing and bounds checking.</p>
+<p><strong>Descrição</strong>. Questões de qualidade de código incluem problemas conhecidos ou padrões de segurança, reutilização de variáveis para múltiplos propósitos, exposição de informações confidenciais na saída de depuração, erros de soma por desvios, tempo de verificação/tempo de uso (TOCTOU), erros de conversão assinados ou não assinados, <em>user after free</em> e mais. A marca desta seção é que eles normalmente podem ser identificados com sinalizadores de compilador rigorosos, ferramentas de análise de código estático e plugins de linter em sua IDE. As linguagens modernas, por padrão, eliminaram muitos destes problemas, como o conceito de propriedade e empréstimo de memória do Rust, o padrão de processos do Rust e o tipo rígido de verificação de limites do Go.</p>
 </li>
 <li>
-<p><strong>How to prevent</strong>. Enable and use your editor and language’s static
-    code analysis options. Consider using a static code analysis tool.
-    Consider if it might be possible to use or migrate to a language or
-    framework that eliminates bug classes, such as Rust or Go.</p>
+<p><strong>Como previnir</strong>. Habilite e use as opções de análise de código estático do seu editor de código. Considere usar uma ferramenta de análise de código estático. Considere se seria possível usar ou migrar para uma linguagem ou <em>framework</em> que elimina algumas classes de erros, como Rust ou Go.</p>
 </li>
 <li>
-<p><strong>Example attack scenarios</strong>. An attacker might obtain or update
-    sensitive information by exploiting a race condition using a
-    statically shared variable across multiple threads.</p>
+<p><strong>Exemplo de cenário de ataque</strong>. Um atacante pode obter ou atualizar informações realizando uma condição de corrida usando uma variável estaticamente compartilhada em vários tópicos.</p>
 </li>
 <li>
-<p><strong>References</strong></p>
+<p><strong>Referências</strong></p>
 <ul>
 <li>
 <p><a href="https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf">OWASP Code Review Guide</a></p>
@@ -682,19 +661,19 @@ identify and remediate.</p>
 </ul>
 </li>
 </ul>
-<h2 id="denial-of-service">Denial of Service</h2>
+<h2 id="negacao-de-servico">Negação de serviço</h2>
 <table>
 <thead>
 <tr>
-<th align="center">CWEs Mapped </th>
-<th align="center">Max Incidence Rate </th>
-<th align="center">Avg Incidence Rate </th>
-<th align="center">Avg Weighted Exploit </th>
-<th align="center">Avg Weighted Impact </th>
-<th align="center">Max Coverage </th>
-<th align="center">Avg Coverage </th>
-<th align="center">Total Occurrences </th>
-<th align="center">Total CVEs </th>
+<th align="center">CWEs Mapeadas </th>
+<th align="center">Taxa de Incidência Máxima </th>
+<th align="center">Taxa Média de Incidência </th>
+<th align="center">Exploração Média Ponderada </th>
+<th align="center">Impacto Médio Ponderado </th>
+<th align="center">Cobertura Máxima </th>
+<th align="center">Média de Cobertura </th>
+<th align="center">Total de Ocorrências </th>
+<th align="center">Total de CVEs</th>
 </tr>
 </thead>
 <tbody>
@@ -713,31 +692,31 @@ identify and remediate.</p>
 </table>
 <ul>
 <li>
-<p><strong>Description</strong>. Denial of service is always possible given
-    sufficient resources. However, design and coding practices have a
-    significant bearing on the magnitude of the denial of service.
-    Suppose anyone with the link can access a large file, or a
-    computationally expensive transaction occurs on every page. In that
-    case, denial of service requires less effort to conduct.</p>
+<p><strong>Descrição</strong>. Negação de serviço é sempre possível dado
+     recursos suficientes. No entanto, as práticas de projeto e codificação têm um
+     impacto significativo na magnitude da negação de serviço.
+     Suponha que qualquer pessoa com o link possa acessar um arquivo grande ou uma
+     transação que utilize muitos recursos computacionais em cada página. Neste
+     caso, a negação de serviço requer menos esforço para se concretizar.</p>
 </li>
 <li>
-<p><strong>How to prevent</strong>. Performance test code for CPU, I/O, and memory
-    usage, re-architect, optimize, or cache expensive operations.
-    Consider access controls for larger objects to ensure that only
-    authorized individuals can access huge files or objects or serve
-    them by an edge caching network. </p>
+<p><strong>Como prevenir</strong>. Código de teste de desempenho para CPU, E/S e utilização de memória, 
+    re-arquitetar, otimizar ou armazenar em cache operações que exigem muito processamento.
+     Considere os controles de acesso para objetos maiores para garantir que apenas
+     indivíduos autorizados podem acessar arquivos ou objetos enormes ou servir
+     eles por uma rede de cache de borda.</p>
 </li>
 <li>
-<p><strong>Example attack scenarios</strong>. An attacker might determine that an
-    operation takes 5-10 seconds to complete. When running four
-    concurrent threads, the server seems to stop responding. The
-    attacker uses 1000 threads and takes the entire system offline.</p>
+<p><strong>Exemplos de cenários de ataque</strong>. Um invasor pode determinar que uma
+     operação leva de 5 a 10 segundos para ser concluída. Ao executar quatro
+     operações simultâneas, o servidor parece parar de responder.
+     O invasor realiza então 1.000 requisições e coloca todo o sistema offline.</p>
 </li>
 <li>
-<p><strong>References</strong></p>
+<p><strong>Referências</strong></p>
 <ul>
 <li>
-<p><a href="https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html">OWASP Cheat Sheet: Denial of Service</a></p>
+<p><a href="https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html">OWASP Cheet Sheet: Denial of Service</a></p>
 </li>
 <li>
 <p><a href="https://owasp.org/www-community/attacks/Denial_of_Service">OWASP Attacks: Denial of Service</a></p>
@@ -745,19 +724,19 @@ identify and remediate.</p>
 </ul>
 </li>
 </ul>
-<h2 id="memory-management-errors">Memory Management Errors</h2>
+<h2 id="erro-de-gerenciamento-de-memoria">Erro de gerenciamento de memória</h2>
 <table>
 <thead>
 <tr>
-<th align="center">CWEs Mapped </th>
-<th align="center">Max Incidence Rate </th>
-<th align="center">Avg Incidence Rate </th>
-<th align="center">Avg Weighted Exploit </th>
-<th align="center">Avg Weighted Impact </th>
-<th align="center">Max Coverage </th>
-<th align="center">Avg Coverage </th>
-<th align="center">Total Occurrences </th>
-<th align="center">Total CVEs </th>
+<th align="center">CWEs Mapeadas </th>
+<th align="center">Taxa de Incidência Máxima </th>
+<th align="center">Taxa Média de Incidência </th>
+<th align="center">Exploração Média Ponderada </th>
+<th align="center">Impacto Médio Ponderado </th>
+<th align="center">Cobertura Máxima </th>
+<th align="center">Média de Cobertura </th>
+<th align="center">Total de Ocorrências </th>
+<th align="center">Total de CVEs</th>
 </tr>
 </thead>
 <tbody>
@@ -776,29 +755,28 @@ identify and remediate.</p>
 </table>
 <ul>
 <li>
-<p><strong>Description</strong>. Web applications tend to be written in managed
-    memory languages, such as Java, .NET, or node.js (JavaScript or
-    TypeScript). However, these languages are written in systems
-    languages that have memory management issues, such as buffer or heap
-    overflows, use after free, integer overflows, and more. There have
-    been many sandbox escapes over the years that prove that just
-    because the web application language is nominally memory “safe,” the
-    foundations are not.</p>
+<p><strong>Descrição</strong>. As aplicações web tendem a ser escritas em linguagens de memória gerenciada,
+    como Java, .NET ou nodejs (JavaScript ou TypeScript). No entanto, 
+    essas linguagens são escritas em linguagens de sistema que apresentam problemas de gerenciamento de memória,
+    como estouros de buffers ou de heap, <em>user after free</em>, estouro de inteiros e muito mais.
+    Ao longo dos anos, houve muitas fugas de sandbox que provam que,
+    apenas porque a linguagem da aplicação web é nominalmente "segura" para a memória, as suas bases não são.</p>
 </li>
 <li>
-<p><strong>How to prevent</strong>. Many modern APIs are now written in memory-safe
-    languages such as Rust or Go. In the case of Rust, memory safety is
-    a crucial feature of the language. For existing code, the use of
-    strict compiler flags, strong typing, static code analysis, and fuzz
-    testing can be beneficial in identifying memory leaks, memory, and
-    array overruns, and more.</p>
+<p><strong>Como prevenir</strong>. Muitas APIs modernas agora são escritas em linguagens seguras de memória,
+    como Rust ou Go. No caso do Rust, a segurança da memória é um recurso crucial da linguagem.
+    Para códigos existentes, o uso de flags de compilador estritas, tipagem forte,
+    análise de código estática e testes de mutação podem ser benéficos para identificar vazamentos de memória,
+    sobrecargas de matriz e muito mais.</p>
 </li>
 <li>
-<p><strong>Example attack scenarios</strong>. Buffer and heap overflows have been a
-    mainstay of attackers over the years. The attacker sends data to a program, which it stores in an undersized stack buffer. The result is that information on the call stack is overwritten, including the function’s return pointer. The data sets the value of the return pointer so that when the function returns, it transfers control to malicious code contained in the attacker’s data.</p>
+<p><strong>Exemplos de cenários de ataque</strong>. Os estouros de buffer e heap têm sido um recurso favorito dos invasores ao longo dos anos.
+    O invasor envia dados para um programa, que armazena em um buffer de pilha subdimensionado.
+    Como resultado, as informações da pilha de chamadas são substituídas, incluindo o ponteiro de retorno da função.
+    Os dados definem o valor do ponteiro de retorno de modo que, quando a função retorna, transfere o controle.</p>
 </li>
 <li>
-<p><strong>References</strong></p>
+<p><strong>Referências</strong></p>
 <ul>
 <li>
 <p><a href="https://owasp.org/www-community/vulnerabilities/Buffer_Overflow">OWASP Vulnerabilities: Buffer Overflow</a></p>
